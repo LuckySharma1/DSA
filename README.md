@@ -1,1 +1,1 @@
-# DSA Coding Pratice
+# DSA Coding Practice
